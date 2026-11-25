@@ -1,0 +1,42 @@
+{
+ "updated": "2026-11-25",
+ "channel": "เถียงจบได้ของ",
+ "products": [
+  {
+   "ep": "ep13",
+   "itemid": "51556078511",
+   "name": "Dr.PONG แอปเปิ้ลไซเดอร์เม็ด ACV 20% 750มก.",
+   "price_old": 1000,
+   "price_new": 367,
+   "pct": 63,
+   "image": "img/51556078511.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F6583190%2F51556078511&affiliate_id=15309680219&sub_id=thiangjop-ep13acv",
+   "sub_id": "thiangjop-ep13",
+   "checked": "2026-11-25"
+  },
+  {
+   "ep": "ep12",
+   "itemid": "29223288171",
+   "name": "Buzz Netura อาหารเม็ดแมวไร้ธัญพืช 1กก.",
+   "price_old": 999,
+   "price_new": 300,
+   "pct": 70,
+   "image": "img/29223288171.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F19056998%2F29223288171&affiliate_id=15309680219&sub_id=thiangjop-ep12buzz",
+   "sub_id": "thiangjop-ep12",
+   "checked": "2026-11-25"
+  },
+  {
+   "ep": "ep11",
+   "itemid": "53853749259",
+   "name": "ยาสีฟัน usmile Optical White 2.0 ม่วง",
+   "price_old": 568,
+   "price_new": 184,
+   "pct": 68,
+   "image": "img/53853749259.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F461338392%2F53853749259&affiliate_id=15309680219&sub_id=thiangjop-ep11usmile",
+   "sub_id": "thiangjop-ep11",
+   "checked": "2026-11-25"
+  }
+ ]
+}
