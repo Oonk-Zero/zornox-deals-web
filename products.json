@@ -1,42 +1,66 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "channel": "เถียงจบได้ของ",
  "products": [
   {
-   "ep": "ep13",
-   "itemid": "51556078511",
-   "name": "Dr.PONG แอปเปิ้ลไซเดอร์เม็ด ACV 20% 750มก.",
+   "ep": "ep20",
+   "itemid": "49918848582",
+   "name": "Dr.PONG CoQ10 30มก.+วิตามินอี (กด2ฟรี1)",
    "price_old": 1000,
-   "price_new": 367,
-   "pct": 63,
-   "image": "img/51556078511.jpg",
-   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F6583190%2F51556078511&affiliate_id=15309680219&sub_id=thiangjop-ep13acv",
-   "sub_id": "thiangjop-ep13",
-   "checked": "2026-11-25"
+   "price_new": 349,
+   "pct": 65,
+   "image": "img/49918848582.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F6583190%2F49918848582&affiliate_id=15309680219&sub_id=thiangjop-ep20coq10",
+   "sub_id": "thiangjop-ep20",
+   "checked": "2026-11-26"
   },
   {
-   "ep": "ep12",
-   "itemid": "29223288171",
-   "name": "Buzz Netura อาหารเม็ดแมวไร้ธัญพืช 1กก.",
-   "price_old": 999,
-   "price_new": 300,
-   "pct": 70,
-   "image": "img/29223288171.jpg",
-   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F19056998%2F29223288171&affiliate_id=15309680219&sub_id=thiangjop-ep12buzz",
-   "sub_id": "thiangjop-ep12",
-   "checked": "2026-11-25"
+   "ep": "ep19",
+   "itemid": "14594617594",
+   "name": "ถุงใส่แก้วเต็มใบ OK 16-22ออนซ์ 1มัด10ห่อ",
+   "price_old": 250,
+   "price_new": 210,
+   "pct": 16,
+   "image": "img/14594617594.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F311530438%2F14594617594&affiliate_id=15309680219&sub_id=thiangjop-ep19cupbag",
+   "sub_id": "thiangjop-ep19",
+   "checked": "2026-11-26"
   },
   {
-   "ep": "ep11",
-   "itemid": "53853749259",
-   "name": "ยาสีฟัน usmile Optical White 2.0 ม่วง",
-   "price_old": 568,
-   "price_new": 184,
-   "pct": 68,
-   "image": "img/53853749259.jpg",
-   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F461338392%2F53853749259&affiliate_id=15309680219&sub_id=thiangjop-ep11usmile",
-   "sub_id": "thiangjop-ep11",
-   "checked": "2026-11-25"
+   "ep": "ep18",
+   "itemid": "43500845599",
+   "name": "Botare ทิชชู่ห่อเขียว หนา4ชั้น 36แพ็ค",
+   "price_old": 138,
+   "price_new": 68,
+   "pct": 51,
+   "image": "img/43500845599.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F1469022860%2F43500845599&affiliate_id=15309680219&sub_id=thiangjop-ep18tissue",
+   "sub_id": "thiangjop-ep18",
+   "checked": "2026-11-26"
+  },
+  {
+   "ep": "ep17",
+   "itemid": "40706112206",
+   "name": "ถุงหูหิ้วตรานกแก้วแดง หนาเกรดเอ 1มัด10ห่อ",
+   "price_old": 1200,
+   "price_new": 459,
+   "pct": 62,
+   "image": "img/40706112206.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F54723061%2F40706112206&affiliate_id=15309680219&sub_id=thiangjop-ep17bird",
+   "sub_id": "thiangjop-ep17",
+   "checked": "2026-11-26"
+  },
+  {
+   "ep": "ep16",
+   "itemid": "23308526332",
+   "name": "Supurra โพรไบโอติกส์ 1แถม1 (รวม2ขวด)",
+   "price_old": 1000,
+   "price_new": 149,
+   "pct": 85,
+   "image": "img/23308526332.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F177936653%2F23308526332&affiliate_id=15309680219&sub_id=thiangjop-ep16supurra",
+   "sub_id": "thiangjop-ep16",
+   "checked": "2026-11-26"
   }
  ]
 }
