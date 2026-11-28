@@ -1,18 +1,30 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "channel": "เถียงจบได้ของ",
  "products": [
   {
-   "ep": "ep13",
-   "itemid": "51556078511",
-   "name": "Dr.PONG แอปเปิ้ลไซเดอร์เม็ด ACV 20% 750มก.",
-   "price_old": 1000,
-   "price_new": 367,
-   "pct": 63,
-   "image": "img/51556078511.jpg",
-   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F6583190%2F51556078511&affiliate_id=15309680219&sub_id=thiangjop-ep13acv",
-   "sub_id": "thiangjop-ep13",
-   "checked": "2026-11-27"
+   "ep": "ep12",
+   "itemid": "29223288171",
+   "name": "Buzz Netura อาหารเม็ดแมวไร้ธัญพืช 1กก.",
+   "price_old": 999,
+   "price_new": 300,
+   "pct": 70,
+   "image": "img/29223288171.jpg",
+   "url": "https://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F19056998%2F29223288171&affiliate_id=15309680219&sub_id=thiangjop-ep12buzz",
+   "sub_id": "thiangjop-ep12",
+   "checked": "2026-11-28"
+  },
+  {
+   "ep": "ep3",
+   "itemid": "44716624992",
+   "name": "Dr.PONG Fiber XS ไฟเบอร์กลูโคแมนแนน",
+   "price_old": 900,
+   "price_new": 445,
+   "pct": 51,
+   "image": "img/44716624992.png",
+   "url": "thiangjop-ep3fiber (verify PASS 23/11):\nhttps://s.shopee.co.th/an_redir?origin_link=https%3A%2F%2Fshopee.co.th%2Fproduct%2F6583190%2F44716624992&affiliate_id=15309680219&sub_id=thiangjop-ep3fiber",
+   "sub_id": "thiangjop-ep3",
+   "checked": "2026-11-28"
   }
  ]
 }
